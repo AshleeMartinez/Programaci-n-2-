@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\bin\Debug\CRUD_CloudWaves.exe.config
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\bin\Debug\CRUD_CloudWaves.exe
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\bin\Debug\CRUD_CloudWaves.pdb
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.FormPrincipal.resources
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.Properties.Resources.resources
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.exe
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_CloudWaves.pdb
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\CRUD_CloudWaves\CRUD_CloudWaves\obj\Debug\CRUD_Clo.1777C60C.Up2Date
